@@ -25,6 +25,6 @@
 - **현기웅:** YOLOv11 담당
 - **박관용:** Faster R-CNN 담당
 
-## 데이터셋 다운로드
+## 원본 데이터셋 다운로드
 - Original RGB: https://rex.libraries.wsu.edu/view/fileRedirect?instCode=01ALLIANCE_WSU&filePid=13344555760001842&download=true
 - Distance thresholding: https://rex.libraries.wsu.edu/view/fileRedirect?instCode=01ALLIANCE_WSU&filePid=13333063520001842&download=true
