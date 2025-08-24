@@ -7,11 +7,11 @@ from tqdm import tqdm # 진행 상황을 시각적으로 보여주는 라이브�
 
 # 원본 이미지와 레이블이 모두 들어있는 폴더 경로
 # (예: '01_data/01_raw')
-SOURCE_DIR = 'path/to/your/source_data_folder'
+SOURCE_DIR = '01_data/01_raw'
 
 # 분할된 데이터셋을 저장할 최상위 폴더 경로
 # (예: '01_data')
-OUTPUT_DIR = 'path/to/your/output_folder'
+OUTPUT_DIR = '01_data'
 
 # 분할 비율 (전체 합이 1.0이 되어야 함)
 TRAIN_RATIO = 0.8
