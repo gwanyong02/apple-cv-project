@@ -1,4 +1,4 @@
-# apple-cv-project
+# apple-cv-project (not recent ver.)
 
 # 노지 사과 인식을 위한 객체 인식 알고리즘 성능 비교 연구
 
